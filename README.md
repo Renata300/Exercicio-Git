@@ -1,13 +1,13 @@
 # Exercicio Git
 
-O propósito dessa atividade é mostrar como funciona um trabalho envolvendo um certo número de pessoas em que todas podem ter acesso ao projeto em si e modificá-lo ao mesmo tempo.
+O propósito dessa atividade é mostrar como funciona um projeto envolvendo um certo número de pessoas em que todas podem ter acesso e modificá-lo ao mesmo tempo.
 
-# Enunciado
+## Enunciado
 
 Imagine que você é dono de uma concessionária. Recentemente foi implementado um sistema aonde o usuário consegue selecionar o carro que teria interesse em comprar (marca, cor, ...). 
 Implemente um programa que interaja com o usuário e que o mesmo possa escolher o carro de sua preferência, obtendo o preço final da compra.
 
-# Comandos basicos
+## Comandos basicos
 
 Caso seja necessário, seguem alguns comandos para o funcionamento da platafora:
   - git init : Criar um novo repositório

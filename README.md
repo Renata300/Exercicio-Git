@@ -7,6 +7,8 @@ O propósito dessa atividade é mostrar como funciona um projeto envolvendo um c
 Imagine que você é dono de uma concessionária. Recentemente foi implementado um sistema aonde o usuário consegue selecionar o carro que teria interesse em comprar (marca, cor, ...). 
 Implemente um programa que interaja com o usuário e que o mesmo possa escolher o carro de sua preferência, obtendo o preço final da compra.
 
+Obs.: Existe mais de uma possibilidade de implementação, ou seja, existe a possibilidade de desenvolver através das linguagens Java, C++ ou C
+
 ## Comandos basicos
 
 Caso seja necessário, seguem alguns comandos para o funcionamento da platafora:

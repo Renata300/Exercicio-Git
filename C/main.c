@@ -20,8 +20,8 @@ struct cadastro_carro
 struct cadastro_carro Carro[100];
 
 int cadastro_de_clientes(void);
-int list_cliente(void);
-int cad_carro(void);
+int lista_de_clientes(void);
+int cadastro_de_carros(void);
 int mostra_clientes(void);
 
 int cadastro_de_clientes(void)
@@ -36,7 +36,7 @@ int cadastro_de_clientes(void)
     return (0);
 }
 
-int list_cliente(void)
+int lista_de_clientes(void)
 {
     int k = 0;
     
@@ -49,7 +49,7 @@ int list_cliente(void)
     return (0);
 }
 
-int cad_carro(void)
+int cadastro_de_carros(void)
 {  
     printf("Cadastro de carro %d de 100\n", i);
     if (i < 100)
@@ -75,10 +75,10 @@ int main(void)
     cadastro_de_clientes();
     printf("\n");
 
-    list_cliente();
+    lista_de_clientes();
     printf("\n");
 
-    cad_carro();
+    cadastro_de_carros();
     printf("\n");
 
     mostra_clientes();

@@ -1,3 +1,6 @@
+/* Esse é um projeto implementado em java referente à POO
+   O mesmo projeto consite de duas classes (App, que é a classe principal, e Carro) */
+ 
 import java.util.*;
 
 public class App {

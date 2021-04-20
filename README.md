@@ -23,4 +23,4 @@ Caso seja necessário, seguem alguns comandos para o funcionamento da platafora:
   - git push : Enviar o conteúdo do repositório local para o repositório remoto
   - git merge <nomeBranch> : Fazer o merge entre as branches
 
-Caso seja necessário, segue a url com mais informações: http://comandosgit.github.io/
+Caso seja necessário, segue a url com mais informações: http://comandosgit.github.io/ 

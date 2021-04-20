@@ -12,6 +12,7 @@ public class App {
         lista.add(carro1);
 
         System.out.println("Lista de carros disponiveis: ");
+        System.out.println();
 
         for(Carro carro : lista){
             System.out.println(carro);

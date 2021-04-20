@@ -1,4 +1,4 @@
-/* Esse código consiste da implementação de aluguel de carros através da linguagem C */
+/* Esse código consiste da implementação de aluguel de carros através da linguagem C */ 
  
 #include <stdio.h> 
 #include <conio.h> 
